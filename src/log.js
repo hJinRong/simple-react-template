@@ -1,0 +1,1 @@
+console.log('This log is published by log.js.');
